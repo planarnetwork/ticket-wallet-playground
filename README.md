@@ -15,6 +15,7 @@ npm install
 * Run `truffle deploy` inside `ticket-wallet` to deploy contracts
 * Connect [MetaMask](https://metamask.io/) to your local Ganache node (localhost:8545)
 * Import private key of the first Ganache account to MetaMask
+* `ln -s ../ticket-wallet/build/contracts .`
 * Run `npm run dev` inside `ticket-wallet-playground`
 * Go to `http://localhost:3000/`
 
